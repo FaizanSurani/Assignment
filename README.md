@@ -1,7 +1,5 @@
 # Todo List Application
-
 ## Overview
-
 This Todo List application is built using React. It allows users to manage their tasks effectively. The key features include creating tasks, updating tasks, marking tasks as done, searching tasks, and displaying tasks in an expandable list format. The application uses a dummy JSON file as a data repository.
 
 ## System Design
@@ -52,11 +50,11 @@ This Todo List application is built using React. It allows users to manage their
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
 2. Navigate to the project directory:
-  ```bash
-   cd todo-list 
+   ```bash
+   cd todo-list
 3. Install dependencies:
-  ```bash
-  npm install
+   ```bash
+   npm install
 4. Start the development server:
-  ```bash
-  npm run dev
+   ```bash
+   npm run dev
